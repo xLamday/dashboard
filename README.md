@@ -6,7 +6,8 @@
 ## Tecnologie utilizzate
 
  **- Next.js**
-**- FastAPI**
+ 
+ **- FastAPI**
 
 
 ## Layout
