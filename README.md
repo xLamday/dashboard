@@ -21,7 +21,8 @@ Il layout sarà inspirato a quello di Pterodactyl:
 	 - Package
 	 - Status
 	 - Azioni
-	 premendo su uno dei bot che verrà mostrato dalla lista, ci farà accedere ad una pagina che mostrerà alla sua destra una console live-preview di cosa accade + metriche di uptime ed utilizzo di risorse (CPU Load, Memoria, Disco, Network Inbound e Network outbound) con al di sotto ulteriori grafici. Inoltre, vi saranno delle funzioni DEDICATE per il tipo di bot che è  stato messo online. Ciò significa che le pagine saranno dinamiche e ritorneranno dei pulsanti, testi, dati in base al tipo bot (Discord o Telegram).
+    
+premendo su uno dei bot che verrà mostrato dalla lista, ci farà accedere ad una pagina che mostrerà alla sua destra una console live-preview di cosa accade + metriche di uptime ed utilizzo di risorse (CPU Load, Memoria, Disco, Network Inbound e Network outbound) con al di sotto ulteriori grafici. Inoltre, vi saranno delle funzioni DEDICATE per il tipo di bot che è  stato messo online. Ciò significa che le pagine saranno dinamiche e ritorneranno dei pulsanti, testi, dati in base al tipo bot (Discord o Telegram).
 	 
 Nella sezione "Servizi" vi saranno ulteriori due pulsanti, di nome: **Impostazioni** e **Attività**. Quest'ultimi sono piuttosto auto-esplicativi.
 
